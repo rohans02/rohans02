@@ -50,7 +50,7 @@
 - 🌐 My Portfolio: **[your-portfolio-link.com](https://your-portfolio-link.com)**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohans02/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/rohann02/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>
   &nbsp;
   <a href="mailto:rohanshinde1702@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>
 </p>
